@@ -1,5 +1,5 @@
 # odin-recipes
-#A practice exercise of The Odin Project
+## A practice exercise of The Odin Project
 
 This exercise is the first HTML project in Foundations section. 
 
