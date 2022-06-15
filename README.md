@@ -5,7 +5,7 @@ This exercise is the first HTML project in Foundations section.
 
 ## Scope
 
-This was a plain exercise with HMTL images, lists and links. 
+This was a plain exercise with HTML images, lists and links. 
 
 ## Credits
 
